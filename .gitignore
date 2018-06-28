@@ -1,3 +1,6 @@
+
+# R and RStudio
+*.nb.html
 *.Rhistory
 
 # Data files
