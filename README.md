@@ -60,5 +60,8 @@ In this portion, we will discuss the data sources available on FRED and those av
   - Do the same for real GDP (pct change). (A191RL1Q225SBEA)
   - Use the online tools (GEO-FRED) to create a Choropleth map of unemployment rates by county in the US.
 
+
 # Python Basics and Optimization
 
+  - Go over Python basics in Colab
+  - See the optimization folder.
